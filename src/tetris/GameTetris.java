@@ -29,6 +29,8 @@ public class GameTetris {
     final int DOWN = 40;
     final int SHOW_DELAY = 350;
 
+
+
     final int[][][] SHAPES = {
             {{0, 0, 0, 0}, {1, 1, 1, 1}, {0, 0, 0, 0}, {0, 0, 0, 0}, {4, 0x00f0f0}}, // I
             {{0, 0, 0, 0}, {0, 1, 1, 0}, {0, 1, 1, 0}, {0, 0, 0, 0}, {4, 0xf0f000}}, // O
